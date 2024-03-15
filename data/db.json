@@ -1,0 +1,40 @@
+{
+	"blogs": [
+		{
+			"title": "My makeup recos",
+			"body": "Welcome to our beauty sanctuary, where makeup becomes an art form and confidence is the finishing touch.",
+			"author": "regel",
+			"id": "1"
+		},
+		{
+			"title": "In your area!",
+			"body": "In the dynamic realm of K-pop, where music becomes a cultural phenomenon, BLACKPINK stands as a radiant force that transcends borders and captures hearts worldwide. Their allure goes beyond the captivating beats and mesmerizing choreography; it's rooted in a unique connection that fans across the globe share—a connection fueled by love.",
+			"author": "gab",
+			"id": "2"
+		},
+		{
+			"title": "My figures collection",
+			"body": "In a world inundated with high-tech gadgets and digital entertainment, there's something timeless and captivating about action figures. These pint-sized heroes have held a special place in our hearts since childhood, and their appeal seems to transcend generations.",
+			"author": "ron",
+			"id": "3"
+		},
+		{
+			"id": "2f8d",
+			"title": "Go gym!",
+			"body": "In our fast-paced lives, maintaining good health is essential, and one effective way to achieve this is by hitting the gym regularly. Beyond building a sculpted physique, the health benefits of regular gym workouts extend far and wide, positively impacting both body and mind.",
+			"author": "abbi"
+		},
+		{
+			"id": "e42b",
+			"title": "title 1",
+			"body": "body 1",
+			"author": "author 1"
+		},
+		{
+			"id": "b2d6",
+			"title": "navigate test",
+			"body": "navigate body",
+			"author": "navigate author"
+		}
+	]
+}

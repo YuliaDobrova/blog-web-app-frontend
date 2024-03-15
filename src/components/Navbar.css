@@ -1,0 +1,20 @@
+* {
+    color: black;
+}
+
+.links a {
+    transition: all 0.3s ease;
+}
+
+.links a:hover {
+    border-bottom: 5px solid black;
+}
+
+.navbar {
+    color: aliceblue;
+    /* background-color: rgb(1, 1, 28) */
+}
+
+.links {
+    display: flex;
+}

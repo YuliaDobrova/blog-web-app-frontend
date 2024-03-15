@@ -1,0 +1,7 @@
+.update {
+    input, textarea {
+        font-size: 1.5rem;
+        margin: 2% 0;
+        padding: 2%;
+    }
+}

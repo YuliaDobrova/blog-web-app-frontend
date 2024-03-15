@@ -1,0 +1,42 @@
+.home {
+	text-align: center;
+	width: 95vw;
+	h2 {
+		font-size: 3rem;
+		font-weight: bold;
+		margin-bottom: 2%;
+		padding: 2%;
+		text-decoration: underline;
+	}
+}
+
+.blog-list {
+	text-align: left;
+	display: grid;
+	width: 95vw;
+	grid-template: auto auto / 4fr 4fr 4fr;
+	
+}
+
+.featured-container {
+	display: flex;
+}
+
+.featured-img {
+	background-color: black;
+	border-radius: 50px;
+	width: 60vw;
+	height: max-content;
+	justify-content: flex-start;
+	margin-right: 10%;
+	
+	img{
+		opacity: 0.7;
+		border-radius: 50px;
+		width: 60vw;
+	}
+}
+
+.featured-blog {
+	width: 50%;
+}

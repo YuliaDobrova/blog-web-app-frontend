@@ -1,0 +1,28 @@
+.blogs {
+    padding: 5%;
+    border: 1px #4e4f4f solid;
+    margin: 0 5% 5%;
+    border-radius: 10px;
+    transition: all 0.5s ease;
+
+    &:hover {
+        scale: 1.02;
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+
+        #blog-title {
+            font-size: 1.7rem;
+        }
+    }
+}
+
+#blog-title {
+    transition: all 0.5s ease;
+    font-size: 1.5rem;
+}
+
+.truncate {
+    width: 300px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
